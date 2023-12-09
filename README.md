@@ -17,17 +17,8 @@
 
 ## 📞 Contact Me
 <div align="center">
-  <a href="link_to_image_1">
-    <img src="/assets/images/shiprock.jpg" alt="Image 1" style="width: 20%;">
-  </a>
-  <a href="link_to_image_2">
-    <img src="/assets/images/shiprock.jpg" alt="Image 2" style="width: 20%;">
-  </a>
-  <a href="link_to_image_3">
-    <img src="/assets/images/shiprock.jpg" alt="Image 3" style="width: 20%;">
-  </a>
-  <a href="link_to_image_4">
-    <img src="/assets/images/shiprock.jpg" alt="Image 4" style="width: 20%;">
+  <a href="https://www.linkedin.com/in/maharib-shafiqee-aion-a13083275">
+    <img src="https://raw.githubusercontent.com/maharib820/maharib820/main/images/ln.png" alt="Image 2" style="width: 20%;">
   </a>
 </div>
 

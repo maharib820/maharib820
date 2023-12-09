@@ -1,5 +1,5 @@
 ### Hi there 👋
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/maharib820/maharib820/main/images/image.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/maharib820/maharib820/main/images/cover.png "San Juan Mountains")
 
 ## 📈 Current Stats
 <p align="center">

@@ -16,14 +16,15 @@
 </p>
 
 <div align="center">
-  <img src="image1.jpg" alt="Image 1" style="width: 30%;">
-  <img src="image2.jpg" alt="Image 2" style="width: 30%;">
-  <img src="image3.jpg" alt="Image 3" style="width: 30%;">
+  <img src="/assets/images/shiprock.jpg" alt="Image 1" style="width: 20%;">
+  <img src="/assets/images/shiprock.jpg" alt="Image 2" style="width: 20%;">
+  <img src="/assets/images/shiprock.jpg" alt="Image 3" style="width: 20%;">
+  <img src="/assets/images/shiprock.jpg" alt="Image 4" style="width: 20%;">
 </div>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a frontend web developer
+- 🌱 I’m exploring mongodb, express, next
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

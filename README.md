@@ -1,6 +1,11 @@
 ### Overview
 ![Cover Image!](https://raw.githubusercontent.com/maharib820/maharib820/main/images/Yellow%20Online%20Business%20Facebook%20Cover.png "Cover Image!")
 
+## Hello, I am Maharib Shafiqee Aion
+- 🔭 I’m currently working as a frontend web developer
+- 🌱 I’m exploring mongodb, express, next
+- 👯 I’m looking to move as a MERN developer
+
 ## 📈 Current Stats
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=maharib820&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak">
@@ -22,7 +27,3 @@
   </a>
 </div>
 
-
-- 🔭 I’m currently working as a frontend web developer
-- 🌱 I’m exploring mongodb, express, next
-- 👯 I’m looking to move as a MERN developer

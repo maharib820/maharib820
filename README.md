@@ -25,4 +25,4 @@
 
 - 🔭 I’m currently working as a frontend web developer
 - 🌱 I’m exploring mongodb, express, next
-- 👯 I’m looking to move on MERN developer
+- 👯 I’m looking to move as a MERN developer

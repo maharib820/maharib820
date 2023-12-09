@@ -1,7 +1,5 @@
 ### Hi there 👋
-![The San Juan Mountains are beautiful!](/images.jpg "San Juan Mountains")
-<!--
-**maharib820/maharib820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/maharib820/maharib820/main/images/image.jpg "San Juan Mountains")
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

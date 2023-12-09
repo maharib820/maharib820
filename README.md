@@ -1,7 +1,18 @@
 ### Hi there 👋
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/maharib820/maharib820/main/images/image.jpg "San Juan Mountains")
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maharib820&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+📈 Current Stats
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maharib820&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

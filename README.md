@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![The San Juan Mountains are beautiful!](/images.jpg "San Juan Mountains")
 <!--
 **maharib820/maharib820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
